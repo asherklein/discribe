@@ -7,7 +7,7 @@
  *
  */
 
- const _ = require('lodash');
+
 const { expect } = require('code');
 const request = require('supertest');
 const lab = require('lab').script();
